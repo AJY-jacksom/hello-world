@@ -1,2 +1,5 @@
 # hello-world
-just another joker
+
+hello humans
+
+I like code,this is why I join in github
